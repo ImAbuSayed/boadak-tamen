@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار الشوق بتنادي عليك
+> كل حياتي بين إيديك
+> قلبي وروحي دايما معاك
+> نور عيوني بتشوف سماك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
