@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Boadak Tamen
+
+This log tracks the cryptographic history and versioning for the song **Boadak Tamen** (boadak-tamen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:41:22.802371 | `v1` | `0444d99b71b9abd214985ee1813b19ff893c757fe67d18ce7b3d2acd98de81c1` | `9a610269b554e479f7ee9ea10d81291776f2e0b5e57fd01579d67014c1e5524b` | `2026-05-08_boadak-tamen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
